@@ -1,0 +1,10 @@
+var javascript are function scopeed
+let and const javascript are block scoped
+
+arrow function (also called is fat arrow function is ce6) 
+arrow function in return use that time multiple line code or used {} symball
+
+note=> (a,b) [a and b is pass the paremeters]
+note=> x+Y (oprater is a symboll[+])
+        x and y is a operand
+        x+y=expression
